@@ -1,1 +1,1 @@
-# html.portfolio
+# Resume done completely in HTML only
